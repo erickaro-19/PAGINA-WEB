@@ -1,0 +1,13 @@
+Body {
+    background-color: burlywood;
+}
+
+h1{
+    font-size: cursive;
+}
+
+h3{
+    font-size: 50px;
+    font-family: cursive;
+
+}
